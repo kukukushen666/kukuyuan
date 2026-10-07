@@ -1,12 +1,12 @@
 {
-  "name": "机友派资源站",
+  "name": "godcool资源站",
   "identifier": "com.pgyy.source",
   "sourceURL": "https://pgyy.vip/app.json",
   "apps": [
     {
       "name": "所有应用定制安装",
       "bundleIdentifier": "com.pgyy.所有应用定制安装.0b4b6031",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "定制长时间稳定使用",
@@ -21,7 +21,7 @@
     {
       "name": "TikTok（免登陆）",
       "bundleIdentifier": "com.pgyy.tiktok免登陆.71a9c2bd",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "需要挂VPN才能使用",
@@ -36,7 +36,7 @@
     {
       "name": "TikTok（可登陆）",
       "bundleIdentifier": "com.pgyy.tiktok可登陆.5fed7d3f",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "需要挂VPN才能使用",
@@ -51,7 +51,7 @@
     {
       "name": "抖音（多合一版本）",
       "bundleIdentifier": "com.pgyy.抖音多合一版本.5f240987",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "图层、去水印",
@@ -66,7 +66,7 @@
     {
       "name": "迅雷",
       "bundleIdentifier": "com.pgyy.迅雷.c709e269",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "不限速版本",
@@ -81,7 +81,7 @@
     {
       "name": "ONE 一个",
       "bundleIdentifier": "com.pgyy.one一个.82115270",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "请勿相信广告",
@@ -96,7 +96,7 @@
     {
       "name": "YBox",
       "bundleIdentifier": "com.pgyy.ybox.a22297a0",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "多平台福利",
@@ -111,7 +111,7 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "com.pgyy.youtube.8dd1bae8",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "全局去广告版/下载视频",
@@ -126,7 +126,7 @@
     {
       "name": "QQ 多开",
       "bundleIdentifier": "com.pgyy.qq多开.2f6192ed",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "净化防撤回抢红包",
@@ -141,7 +141,7 @@
     {
       "name": "JavDB",
       "bundleIdentifier": "com.pgyy.javdb.ed02700e",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "番号大全",
@@ -156,7 +156,7 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "com.pgyy.spotify.fd539ca1",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "烦请使用，登录解锁 特权",
@@ -171,7 +171,7 @@
     {
       "name": "Here",
       "bundleIdentifier": "com.pgyy.here.7e1321b3",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "解锁会员权限",
@@ -186,7 +186,7 @@
     {
       "name": "司机之家",
       "bundleIdentifier": "com.pgyy.司机之家.a31927a9",
-      "developerName": "机友派",
+      "developerName": "godcool",
       "version": "1.0.0",
       "versionDate": "2026-08-31T11:58:39+08:00",
       "versionDescription": "解锁会员权限",
